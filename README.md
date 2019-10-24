@@ -1,19 +1,6 @@
-# README
+# My First Repo
 
-Hello, welcome to this very instructive repository.
+I am a PhD student, running the Monument Monitor project.
 
-Here you will find some grand information.
+I study at UCL...
 
-Here is some more information
-
-and some more
-
-dlfksdflkjsdf
-
-asdflaksjdfkl
-
-
-sadf;askdjf;laksjdf;
-
-
-asdf;lkajsd;flkjasd
